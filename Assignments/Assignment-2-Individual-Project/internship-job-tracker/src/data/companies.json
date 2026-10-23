@@ -1,0 +1,110 @@
+[
+  {
+    "id": "company-001",
+    "name": "NovaTech Solutions",
+    "industry": "Technology",
+    "website": "",
+    "description": "Digital product engineering and web applications.",
+    "location": "Hyderabad",
+    "initials": "NS"
+  },
+  {
+    "id": "company-002",
+    "name": "BrightPath Technologies",
+    "industry": "Software",
+    "website": "",
+    "description": "Software engineering and cloud services.",
+    "location": "Bengaluru",
+    "initials": "BT"
+  },
+  {
+    "id": "company-003",
+    "name": "CloudSphere Labs",
+    "industry": "Cloud Computing",
+    "website": "",
+    "description": "Cloud-native products and developer tools.",
+    "location": "Remote",
+    "initials": "CL"
+  },
+  {
+    "id": "company-004",
+    "name": "PixelCraft Studio",
+    "industry": "Design",
+    "website": "",
+    "description": "Product design and creative digital experiences.",
+    "location": "Hyderabad",
+    "initials": "PS"
+  },
+  {
+    "id": "company-005",
+    "name": "DataNest Analytics",
+    "industry": "Analytics",
+    "website": "",
+    "description": "Data analytics and business intelligence.",
+    "location": "Pune",
+    "initials": "DA"
+  },
+  {
+    "id": "company-006",
+    "name": "CodeBridge Systems",
+    "industry": "Software",
+    "website": "",
+    "description": "Enterprise software and application development.",
+    "location": "Chennai",
+    "initials": "CS"
+  },
+  {
+    "id": "company-007",
+    "name": "NextWave Digital",
+    "industry": "Digital Services",
+    "website": "",
+    "description": "Web platforms and digital transformation.",
+    "location": "Hyderabad",
+    "initials": "ND"
+  },
+  {
+    "id": "company-008",
+    "name": "SecureStack Innovations",
+    "industry": "Cybersecurity",
+    "website": "",
+    "description": "Security engineering and risk analysis.",
+    "location": "Remote",
+    "initials": "SI"
+  },
+  {
+    "id": "company-009",
+    "name": "GreenByte Technologies",
+    "industry": "Technology",
+    "website": "",
+    "description": "Python applications and sustainable technology.",
+    "location": "Remote",
+    "initials": "GT"
+  },
+  {
+    "id": "company-010",
+    "name": "ApexLogic Solutions",
+    "industry": "Software",
+    "website": "",
+    "description": "Software products and enterprise solutions.",
+    "location": "Bengaluru",
+    "initials": "AS"
+  },
+  {
+    "id": "company-011",
+    "name": "BlueOrbit Systems",
+    "industry": "IT Services",
+    "website": "",
+    "description": "Web development and technology consulting.",
+    "location": "Hyderabad",
+    "initials": "BS"
+  },
+  {
+    "id": "company-012",
+    "name": "DevSpring Labs",
+    "industry": "Software Testing",
+    "website": "",
+    "description": "Quality engineering and test automation.",
+    "location": "Remote",
+    "initials": "DL"
+  }
+]
